@@ -7,5 +7,6 @@ for i in lst:
         print('число найдено в этом списке')
         break
     else:
-        continue
+       continue
+print('число не найдено в этом списке') 
     
